@@ -9,3 +9,4 @@ FPS game project [link](https://github.com/Pelikoodaus/05_TestingGrounds)
 * TG05 Marketing & Markdown
 * TG05 Use git glean to revert project
 * TG05 First person character overwiev
+* TG05 the third person character
