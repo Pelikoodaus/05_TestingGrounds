@@ -14,3 +14,4 @@ FPS game project [link](https://github.com/Pelikoodaus/05_TestingGrounds)
 * TG09 Introducing Blackboard AI data
 * TG10 Target points and patrol routes 
 * TG11 Using Any Actor for Waypoint
+* TG12 Blueprint Behaviour Tree Tasks
