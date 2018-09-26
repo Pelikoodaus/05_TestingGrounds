@@ -15,3 +15,4 @@ FPS game project [link](https://github.com/Pelikoodaus/05_TestingGrounds)
 * TG10 Target points and patrol routes 
 * TG11 Using Any Actor for Waypoint
 * TG12 Blueprint Behaviour Tree Tasks
+* TG13 Modular Arithmetic & Cycles
