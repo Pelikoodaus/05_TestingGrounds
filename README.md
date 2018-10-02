@@ -18,3 +18,4 @@ FPS game project [link](https://github.com/Pelikoodaus/05_TestingGrounds)
 * TG13 Modular Arithmetic & Cycles
 * TG14 C++ Behaviour Tree Tasks
 * TG15 Reading Blackboard Data in C++
+* TG16 The Consequences of Inheritance
