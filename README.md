@@ -20,3 +20,4 @@ FPS game project [link](https://github.com/Pelikoodaus/05_TestingGrounds)
 * TG15 Reading Blackboard Data in C++
 * TG16 The Consequences of Inheritance
 * TG17 Converting blueprint to c++
+* TG18 Composition over inheritance
