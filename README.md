@@ -22,3 +22,4 @@ FPS game project [link](https://github.com/Pelikoodaus/05_TestingGrounds)
 * TG17 Converting blueprint to c++
 * TG18 Composition over inheritance
 * TG19 how to delete a c++ class
+* TG20 instanced materials
