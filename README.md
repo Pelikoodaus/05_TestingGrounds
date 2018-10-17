@@ -27,3 +27,4 @@ FPS game project [link](https://github.com/Pelikoodaus/05_TestingGrounds)
 * TG22 OnTargetPerceptionUpdated Event
 * TG23 AI Hearing Perception in Unreal
 * TG24 Animation Starer Pack
+* TG25 Changing a character's animation
