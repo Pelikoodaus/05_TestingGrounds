@@ -30,3 +30,4 @@ FPS game project [link](https://github.com/Pelikoodaus/05_TestingGrounds)
 * TG25 Changing a character's animation
 * TG26 Customizing a character blueprint
 * TG27 sub behavior trees
+* TG28 Simplifying our project
